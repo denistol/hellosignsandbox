@@ -1,1 +1,2 @@
-npm run hellosign
+npm i;
+npm run hellosign;
